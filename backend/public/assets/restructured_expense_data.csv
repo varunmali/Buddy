@@ -1,0 +1,1001 @@
+User ID,Title,Amount,Category,Transaction Type,Date,Year,Month
+5,Groceries,2101.32,Transportation,Expense,2023-10-04,2023,10
+10,Rent Payment,2366.87,Medical,Expense,2023-03-12,2023,3
+1,Online Shopping,3753.47,Groceries,Expense,2023-11-15,2023,11
+6,Salary,3952.16,Groceries,Expense,2023-06-13,2023,6
+2,Online Shopping,1997.35,Transportation,Expense,2023-09-29,2023,9
+9,Online Shopping,144.08,Salary,Income,2023-11-29,2023,11
+3,Electricity Bill,2386.78,Rent,Expense,2023-07-31,2023,7
+4,Dinner,1076.01,Food,Expense,2023-10-20,2023,10
+5,Online Shopping,1907.38,Salary,Income,2023-06-11,2023,6
+5,Dinner,3193.16,Medical,Expense,2023-04-11,2023,4
+7,Rent Payment,3822.89,Entertainment,Expense,2023-09-28,2023,9
+5,Dinner,3646.84,Salary,Income,2023-10-06,2023,10
+4,Rent Payment,1870.63,Other,Expense,2023-06-12,2023,6
+6,Online Shopping,3506.36,Other,Expense,2023-08-17,2023,8
+5,Electricity Bill,1868.36,Rent,Expense,2023-04-20,2023,4
+8,Online Shopping,4480.18,Utilities,Expense,2023-05-08,2023,5
+9,Groceries,3121.1,Food,Expense,2023-06-22,2023,6
+4,Groceries,721.08,Other,Expense,2023-06-19,2023,6
+9,Rent Payment,2710.43,Entertainment,Expense,2023-12-24,2023,12
+5,Online Shopping,3373.57,Entertainment,Expense,2023-03-14,2023,3
+5,Online Shopping,4212.88,Rent,Expense,2023-07-03,2023,7
+5,Groceries,3004.73,Transportation,Expense,2023-03-04,2023,3
+5,Dinner,1076.42,Entertainment,Expense,2023-10-24,2023,10
+4,Electricity Bill,4085.85,Utilities,Expense,2023-09-21,2023,9
+7,Groceries,1628.59,Food,Expense,2023-03-22,2023,3
+5,Medical Checkup,1463.02,Medical,Expense,2023-11-07,2023,11
+9,Electricity Bill,1054.55,Groceries,Expense,2023-03-22,2023,3
+5,Rent Payment,4223.82,Transportation,Expense,2023-02-14,2023,2
+2,Salary,4757.23,Other,Expense,2023-04-10,2023,4
+4,Electricity Bill,4785.66,Other,Expense,2023-11-27,2023,11
+7,Groceries,2577.17,Rent,Expense,2023-06-24,2023,6
+3,Dinner,1868.03,Food,Expense,2023-12-23,2023,12
+2,Groceries,529.02,Other,Expense,2023-08-04,2023,8
+8,Rent Payment,325.57,Food,Expense,2023-10-05,2023,10
+6,Dinner,1634.79,Tip,Expense,2023-09-17,2023,9
+4,Groceries,2194.5,Rent,Expense,2023-07-28,2023,7
+2,Electricity Bill,2197.32,Entertainment,Expense,2023-02-18,2023,2
+6,Online Shopping,1693.43,Rent,Expense,2023-03-29,2023,3
+4,Dinner,2902.44,Entertainment,Expense,2023-05-27,2023,5
+5,Groceries,3560.13,Other,Expense,2023-12-12,2023,12
+3,Medical Checkup,2417.12,Medical,Expense,2023-04-17,2023,4
+2,Online Shopping,3029.81,Rent,Expense,2023-05-27,2023,5
+8,Online Shopping,1631.55,Transportation,Expense,2023-06-27,2023,6
+6,Online Shopping,1429.53,Food,Expense,2023-09-06,2023,9
+10,Online Shopping,4237.97,Tip,Expense,2023-06-29,2023,6
+4,Online Shopping,2066.94,Entertainment,Expense,2023-05-02,2023,5
+5,Dinner,1799.92,Medical,Expense,2023-08-21,2023,8
+2,Electricity Bill,3025.45,Salary,Income,2023-09-07,2023,9
+1,Online Shopping,2325.7,Salary,Income,2023-03-29,2023,3
+7,Groceries,3030.03,Rent,Expense,2023-11-27,2023,11
+5,Salary,1897.69,Other,Expense,2023-07-03,2023,7
+4,Salary,3581.0,Groceries,Expense,2023-04-02,2023,4
+3,Medical Checkup,330.37,Tip,Expense,2023-11-10,2023,11
+4,Dinner,2540.54,Rent,Expense,2023-10-16,2023,10
+4,Salary,895.82,Salary,Income,2023-02-16,2023,2
+6,Dinner,1415.23,Entertainment,Expense,2023-08-29,2023,8
+9,Groceries,3851.89,Food,Expense,2023-05-20,2023,5
+7,Salary,2472.74,Entertainment,Expense,2023-07-17,2023,7
+1,Groceries,4121.39,Food,Expense,2023-09-05,2023,9
+8,Rent Payment,4103.09,Medical,Expense,2023-12-19,2023,12
+10,Groceries,2007.12,Groceries,Expense,2023-04-12,2023,4
+8,Salary,1933.62,Salary,Income,2023-06-29,2023,6
+2,Medical Checkup,1889.17,Medical,Expense,2023-04-28,2023,4
+1,Groceries,2220.84,Entertainment,Expense,2023-10-23,2023,10
+5,Dinner,826.46,Tip,Expense,2023-02-20,2023,2
+4,Salary,1466.16,Food,Expense,2023-08-25,2023,8
+2,Rent Payment,1025.82,Groceries,Expense,2023-02-03,2023,2
+8,Dinner,1065.05,Rent,Expense,2023-12-25,2023,12
+7,Groceries,210.29,Food,Expense,2023-07-14,2023,7
+6,Groceries,3511.94,Transportation,Expense,2023-12-11,2023,12
+9,Salary,691.19,Transportation,Expense,2023-09-12,2023,9
+6,Online Shopping,4118.13,Transportation,Expense,2023-12-14,2023,12
+8,Electricity Bill,534.62,Utilities,Expense,2023-09-16,2023,9
+1,Electricity Bill,4415.63,Tip,Expense,2023-06-10,2023,6
+10,Electricity Bill,4891.83,Food,Expense,2023-10-20,2023,10
+8,Electricity Bill,1749.33,Medical,Expense,2023-04-14,2023,4
+1,Electricity Bill,173.74,Rent,Expense,2023-12-05,2023,12
+6,Online Shopping,186.64,Salary,Income,2023-07-29,2023,7
+8,Dinner,370.1,Transportation,Expense,2023-06-04,2023,6
+6,Online Shopping,2040.17,Food,Expense,2023-09-28,2023,9
+6,Groceries,2890.27,Tip,Expense,2023-01-11,2023,1
+2,Salary,2509.18,Salary,Income,2023-03-02,2023,3
+9,Dinner,1751.83,Utilities,Expense,2023-09-24,2023,9
+9,Online Shopping,659.84,Medical,Expense,2023-07-14,2023,7
+5,Rent Payment,836.67,Entertainment,Expense,2023-07-01,2023,7
+5,Dinner,323.23,Salary,Income,2023-12-24,2023,12
+2,Dinner,3127.32,Salary,Income,2023-10-21,2023,10
+1,Salary,2447.24,Tip,Expense,2023-11-08,2023,11
+3,Dinner,3714.19,Groceries,Expense,2023-04-21,2023,4
+9,Rent Payment,3936.0,Rent,Expense,2023-10-09,2023,10
+2,Electricity Bill,2798.97,Utilities,Expense,2023-09-09,2023,9
+4,Electricity Bill,4033.88,Entertainment,Expense,2023-04-08,2023,4
+2,Dinner,513.08,Food,Expense,2023-09-01,2023,9
+4,Electricity Bill,4766.51,Food,Expense,2023-01-22,2023,1
+7,Electricity Bill,4833.02,Transportation,Expense,2023-10-25,2023,10
+9,Dinner,2655.45,Rent,Expense,2023-04-30,2023,4
+3,Medical Checkup,4096.11,Tip,Expense,2023-03-24,2023,3
+9,Electricity Bill,2753.0,Food,Expense,2023-09-27,2023,9
+6,Medical Checkup,1815.2,Tip,Expense,2023-07-16,2023,7
+4,Salary,3410.21,Entertainment,Expense,2023-05-01,2023,5
+6,Dinner,837.87,Rent,Expense,2023-07-01,2023,7
+3,Rent Payment,1618.77,Transportation,Expense,2023-11-12,2023,11
+5,Dinner,109.92,Medical,Expense,2023-06-17,2023,6
+10,Online Shopping,2059.63,Utilities,Expense,2023-06-08,2023,6
+6,Groceries,1668.98,Utilities,Expense,2023-05-15,2023,5
+2,Salary,1697.0,Salary,Income,2023-05-19,2023,5
+8,Electricity Bill,4562.79,Rent,Expense,2023-10-15,2023,10
+3,Salary,1835.47,Other,Expense,2023-04-28,2023,4
+8,Rent Payment,198.67,Rent,Expense,2023-05-11,2023,5
+8,Medical Checkup,2166.88,Transportation,Expense,2023-08-16,2023,8
+9,Groceries,1601.0,Utilities,Expense,2023-12-01,2023,12
+5,Medical Checkup,3748.99,Tip,Expense,2023-03-26,2023,3
+1,Dinner,189.04,Utilities,Expense,2023-02-05,2023,2
+4,Salary,609.86,Groceries,Expense,2023-04-26,2023,4
+7,Rent Payment,1324.12,Groceries,Expense,2023-03-22,2023,3
+9,Groceries,1004.89,Food,Expense,2023-09-26,2023,9
+10,Medical Checkup,3369.99,Utilities,Expense,2023-07-27,2023,7
+3,Online Shopping,4993.56,Medical,Expense,2023-10-14,2023,10
+9,Dinner,897.94,Food,Expense,2023-11-12,2023,11
+1,Rent Payment,4931.03,Tip,Expense,2023-06-30,2023,6
+6,Dinner,3403.71,Other,Expense,2023-02-28,2023,2
+2,Online Shopping,471.34,Rent,Expense,2023-11-27,2023,11
+2,Rent Payment,4982.14,Other,Expense,2023-06-28,2023,6
+5,Salary,4854.31,Entertainment,Expense,2023-10-10,2023,10
+3,Rent Payment,4674.58,Tip,Expense,2023-02-11,2023,2
+2,Electricity Bill,1378.72,Salary,Income,2023-10-11,2023,10
+4,Medical Checkup,3598.04,Groceries,Expense,2023-08-24,2023,8
+1,Dinner,2909.34,Salary,Income,2023-05-05,2023,5
+6,Salary,2595.85,Rent,Expense,2023-06-29,2023,6
+8,Online Shopping,3039.16,Food,Expense,2023-06-16,2023,6
+10,Electricity Bill,4806.64,Medical,Expense,2023-04-26,2023,4
+10,Medical Checkup,2615.62,Other,Expense,2023-07-14,2023,7
+4,Rent Payment,1171.3,Groceries,Expense,2023-05-14,2023,5
+6,Online Shopping,3754.71,Utilities,Expense,2023-05-04,2023,5
+9,Rent Payment,2658.07,Transportation,Expense,2023-04-08,2023,4
+1,Dinner,2702.13,Salary,Income,2023-09-23,2023,9
+8,Dinner,3375.91,Food,Expense,2023-06-10,2023,6
+3,Rent Payment,3293.11,Groceries,Expense,2023-05-06,2023,5
+4,Electricity Bill,2377.77,Transportation,Expense,2023-11-25,2023,11
+4,Rent Payment,4932.99,Tip,Expense,2023-03-31,2023,3
+4,Dinner,521.64,Groceries,Expense,2023-05-25,2023,5
+10,Rent Payment,4694.5,Medical,Expense,2023-02-09,2023,2
+9,Salary,4677.8,Other,Expense,2023-05-04,2023,5
+3,Salary,2104.87,Other,Expense,2023-10-07,2023,10
+3,Medical Checkup,2155.9,Utilities,Expense,2023-12-13,2023,12
+3,Medical Checkup,1070.78,Medical,Expense,2023-11-13,2023,11
+6,Medical Checkup,3998.67,Transportation,Expense,2023-03-11,2023,3
+1,Online Shopping,1536.5,Groceries,Expense,2023-11-22,2023,11
+2,Online Shopping,3919.51,Entertainment,Expense,2023-02-17,2023,2
+6,Medical Checkup,4320.52,Medical,Expense,2023-02-17,2023,2
+10,Salary,4152.35,Salary,Income,2023-05-13,2023,5
+10,Salary,1676.5,Tip,Expense,2023-11-17,2023,11
+8,Electricity Bill,1265.93,Salary,Income,2023-11-09,2023,11
+1,Online Shopping,3985.74,Other,Expense,2023-03-22,2023,3
+9,Salary,3186.53,Food,Expense,2023-01-15,2023,1
+7,Electricity Bill,772.62,Transportation,Expense,2023-02-07,2023,2
+3,Rent Payment,3307.47,Rent,Expense,2023-04-29,2023,4
+4,Electricity Bill,4679.0,Other,Expense,2023-10-29,2023,10
+3,Groceries,4242.58,Rent,Expense,2023-02-17,2023,2
+6,Salary,4475.2,Entertainment,Expense,2023-09-18,2023,9
+4,Groceries,1778.62,Transportation,Expense,2023-07-29,2023,7
+8,Rent Payment,1936.48,Food,Expense,2023-10-29,2023,10
+8,Rent Payment,741.63,Transportation,Expense,2023-04-09,2023,4
+8,Online Shopping,4765.62,Medical,Expense,2023-06-26,2023,6
+6,Rent Payment,3563.57,Rent,Expense,2023-09-25,2023,9
+10,Medical Checkup,1939.72,Other,Expense,2023-12-20,2023,12
+5,Medical Checkup,2400.65,Medical,Expense,2023-01-22,2023,1
+5,Dinner,3455.2,Tip,Expense,2023-10-10,2023,10
+6,Salary,884.38,Utilities,Expense,2023-04-15,2023,4
+3,Online Shopping,472.92,Entertainment,Expense,2023-02-23,2023,2
+8,Salary,4783.96,Salary,Income,2023-11-28,2023,11
+10,Salary,4511.15,Transportation,Expense,2023-04-21,2023,4
+9,Dinner,4465.2,Medical,Expense,2023-09-27,2023,9
+10,Rent Payment,3051.0,Other,Expense,2023-09-10,2023,9
+10,Electricity Bill,3830.17,Utilities,Expense,2023-07-28,2023,7
+6,Salary,1141.56,Food,Expense,2023-08-05,2023,8
+10,Rent Payment,3049.35,Tip,Expense,2023-09-08,2023,9
+4,Electricity Bill,4079.3,Medical,Expense,2023-04-19,2023,4
+4,Dinner,2027.52,Groceries,Expense,2023-03-02,2023,3
+7,Rent Payment,2372.05,Tip,Expense,2023-02-04,2023,2
+3,Dinner,2037.97,Food,Expense,2023-02-25,2023,2
+4,Rent Payment,121.54,Entertainment,Expense,2023-06-05,2023,6
+2,Online Shopping,4245.03,Utilities,Expense,2023-03-01,2023,3
+3,Online Shopping,1124.7,Food,Expense,2023-03-14,2023,3
+8,Dinner,1116.01,Salary,Income,2023-10-27,2023,10
+5,Dinner,1140.6,Rent,Expense,2023-02-19,2023,2
+6,Online Shopping,3821.39,Entertainment,Expense,2023-08-30,2023,8
+5,Medical Checkup,3042.2,Other,Expense,2023-10-29,2023,10
+2,Dinner,2387.47,Transportation,Expense,2023-12-16,2023,12
+3,Dinner,2382.68,Utilities,Expense,2023-08-22,2023,8
+1,Salary,4953.55,Rent,Expense,2023-10-18,2023,10
+7,Online Shopping,2966.25,Rent,Expense,2023-06-20,2023,6
+3,Online Shopping,867.73,Medical,Expense,2023-11-03,2023,11
+7,Medical Checkup,4200.23,Other,Expense,2023-11-27,2023,11
+6,Electricity Bill,4578.21,Rent,Expense,2023-12-15,2023,12
+9,Groceries,3503.88,Transportation,Expense,2023-04-03,2023,4
+9,Medical Checkup,4786.48,Rent,Expense,2023-05-13,2023,5
+9,Electricity Bill,422.65,Entertainment,Expense,2023-06-27,2023,6
+1,Rent Payment,1818.55,Tip,Expense,2023-02-02,2023,2
+5,Electricity Bill,4749.52,Utilities,Expense,2023-12-05,2023,12
+3,Groceries,1512.69,Other,Expense,2023-02-19,2023,2
+9,Online Shopping,597.01,Tip,Expense,2023-11-13,2023,11
+7,Groceries,4849.28,Entertainment,Expense,2023-04-14,2023,4
+1,Electricity Bill,3246.48,Salary,Income,2023-06-20,2023,6
+10,Rent Payment,1355.23,Food,Expense,2023-07-28,2023,7
+4,Dinner,1352.62,Food,Expense,2023-03-11,2023,3
+5,Salary,4789.56,Food,Expense,2023-03-13,2023,3
+3,Dinner,3922.95,Food,Expense,2023-10-25,2023,10
+5,Groceries,4628.18,Food,Expense,2023-03-01,2023,3
+3,Electricity Bill,1863.25,Tip,Expense,2023-12-19,2023,12
+1,Online Shopping,1306.35,Groceries,Expense,2023-07-21,2023,7
+7,Salary,4456.14,Tip,Expense,2023-05-01,2023,5
+9,Online Shopping,2790.34,Utilities,Expense,2023-02-05,2023,2
+8,Groceries,4775.9,Food,Expense,2023-04-17,2023,4
+5,Dinner,3480.17,Rent,Expense,2023-11-25,2023,11
+2,Online Shopping,2160.06,Groceries,Expense,2023-01-01,2023,1
+2,Groceries,4356.32,Rent,Expense,2023-12-25,2023,12
+4,Dinner,3834.63,Rent,Expense,2023-12-22,2023,12
+10,Online Shopping,504.33,Medical,Expense,2023-03-30,2023,3
+8,Online Shopping,2598.41,Groceries,Expense,2023-04-20,2023,4
+6,Rent Payment,1908.41,Other,Expense,2023-05-22,2023,5
+5,Salary,4946.2,Salary,Income,2023-06-19,2023,6
+10,Electricity Bill,2060.65,Utilities,Expense,2023-03-15,2023,3
+4,Online Shopping,2300.57,Other,Expense,2023-08-24,2023,8
+1,Dinner,2162.14,Groceries,Expense,2023-05-11,2023,5
+4,Online Shopping,3065.69,Other,Expense,2023-04-26,2023,4
+3,Online Shopping,991.73,Entertainment,Expense,2023-11-21,2023,11
+6,Groceries,1090.47,Medical,Expense,2023-01-27,2023,1
+5,Groceries,967.83,Tip,Expense,2023-12-16,2023,12
+10,Dinner,1946.07,Other,Expense,2023-06-18,2023,6
+6,Rent Payment,3294.69,Other,Expense,2023-06-14,2023,6
+8,Salary,230.91,Tip,Expense,2023-01-11,2023,1
+3,Electricity Bill,1505.66,Other,Expense,2023-03-19,2023,3
+6,Medical Checkup,676.24,Utilities,Expense,2023-06-13,2023,6
+3,Dinner,2480.13,Salary,Income,2023-04-12,2023,4
+1,Dinner,253.4,Utilities,Expense,2023-03-08,2023,3
+10,Electricity Bill,494.86,Food,Expense,2023-10-19,2023,10
+1,Electricity Bill,1547.28,Entertainment,Expense,2023-04-23,2023,4
+2,Medical Checkup,3384.75,Salary,Income,2023-03-01,2023,3
+3,Salary,2731.57,Utilities,Expense,2023-09-11,2023,9
+8,Rent Payment,118.72,Tip,Expense,2023-03-02,2023,3
+4,Salary,2716.69,Entertainment,Expense,2023-07-18,2023,7
+3,Salary,404.08,Utilities,Expense,2023-08-19,2023,8
+6,Rent Payment,3551.87,Groceries,Expense,2023-02-28,2023,2
+9,Medical Checkup,936.83,Other,Expense,2023-12-15,2023,12
+2,Rent Payment,3886.59,Groceries,Expense,2023-12-14,2023,12
+5,Dinner,823.52,Other,Expense,2023-03-05,2023,3
+4,Salary,461.96,Transportation,Expense,2023-10-22,2023,10
+5,Salary,917.38,Salary,Income,2023-09-29,2023,9
+1,Rent Payment,1775.3,Rent,Expense,2023-10-29,2023,10
+6,Electricity Bill,3555.82,Transportation,Expense,2023-01-27,2023,1
+8,Dinner,4447.55,Entertainment,Expense,2023-04-28,2023,4
+3,Rent Payment,4076.82,Rent,Expense,2023-11-21,2023,11
+2,Rent Payment,4778.71,Entertainment,Expense,2023-01-17,2023,1
+1,Salary,4631.03,Groceries,Expense,2023-10-10,2023,10
+5,Online Shopping,779.72,Entertainment,Expense,2023-03-03,2023,3
+9,Groceries,4138.06,Other,Expense,2023-04-16,2023,4
+8,Electricity Bill,228.6,Transportation,Expense,2023-02-09,2023,2
+2,Online Shopping,4097.71,Tip,Expense,2023-03-12,2023,3
+3,Medical Checkup,3072.24,Tip,Expense,2023-12-08,2023,12
+7,Medical Checkup,466.5,Groceries,Expense,2023-09-13,2023,9
+3,Dinner,4697.5,Tip,Expense,2023-11-08,2023,11
+9,Rent Payment,3730.27,Medical,Expense,2023-04-03,2023,4
+10,Medical Checkup,2877.51,Groceries,Expense,2023-10-16,2023,10
+6,Groceries,1901.32,Transportation,Expense,2023-02-14,2023,2
+6,Online Shopping,524.92,Transportation,Expense,2023-02-16,2023,2
+5,Online Shopping,3269.67,Food,Expense,2023-11-21,2023,11
+10,Medical Checkup,2926.11,Tip,Expense,2023-06-01,2023,6
+4,Medical Checkup,3669.24,Entertainment,Expense,2023-09-07,2023,9
+6,Rent Payment,3387.61,Other,Expense,2023-04-20,2023,4
+10,Electricity Bill,4839.57,Groceries,Expense,2023-08-07,2023,8
+3,Dinner,4318.15,Groceries,Expense,2023-07-22,2023,7
+7,Online Shopping,2344.86,Entertainment,Expense,2023-01-02,2023,1
+4,Medical Checkup,4470.94,Utilities,Expense,2023-10-30,2023,10
+4,Salary,4629.04,Other,Expense,2023-11-16,2023,11
+8,Salary,2342.56,Salary,Income,2023-11-22,2023,11
+1,Dinner,4998.58,Food,Expense,2023-02-02,2023,2
+7,Groceries,4824.02,Tip,Expense,2023-01-18,2023,1
+7,Groceries,3785.22,Tip,Expense,2023-08-31,2023,8
+4,Electricity Bill,2497.69,Groceries,Expense,2023-07-01,2023,7
+6,Medical Checkup,2973.37,Utilities,Expense,2023-06-12,2023,6
+5,Electricity Bill,4877.94,Entertainment,Expense,2023-11-24,2023,11
+1,Online Shopping,3967.4,Transportation,Expense,2023-01-21,2023,1
+3,Dinner,4376.93,Groceries,Expense,2023-04-17,2023,4
+10,Groceries,1702.88,Salary,Income,2023-05-07,2023,5
+2,Rent Payment,1574.2,Other,Expense,2023-05-12,2023,5
+4,Groceries,4290.39,Rent,Expense,2023-11-28,2023,11
+7,Groceries,1999.5,Groceries,Expense,2023-03-25,2023,3
+5,Online Shopping,4331.66,Utilities,Expense,2023-01-11,2023,1
+1,Medical Checkup,460.79,Medical,Expense,2023-05-30,2023,5
+7,Dinner,1080.52,Food,Expense,2023-03-30,2023,3
+3,Rent Payment,1732.58,Food,Expense,2023-10-01,2023,10
+4,Medical Checkup,496.05,Rent,Expense,2023-09-29,2023,9
+1,Salary,2955.04,Food,Expense,2023-04-12,2023,4
+3,Rent Payment,4731.36,Transportation,Expense,2023-01-17,2023,1
+1,Salary,1448.35,Tip,Expense,2023-07-25,2023,7
+4,Online Shopping,1622.29,Food,Expense,2023-04-26,2023,4
+10,Electricity Bill,1589.08,Groceries,Expense,2023-03-18,2023,3
+8,Salary,560.48,Other,Expense,2023-02-13,2023,2
+3,Rent Payment,2461.21,Groceries,Expense,2023-02-19,2023,2
+5,Online Shopping,2407.63,Entertainment,Expense,2023-02-18,2023,2
+8,Groceries,298.44,Rent,Expense,2023-04-28,2023,4
+2,Rent Payment,3416.54,Groceries,Expense,2023-05-30,2023,5
+2,Rent Payment,2394.37,Transportation,Expense,2023-11-05,2023,11
+4,Electricity Bill,4284.57,Medical,Expense,2023-09-20,2023,9
+3,Medical Checkup,1250.95,Salary,Income,2023-06-17,2023,6
+3,Medical Checkup,1129.56,Utilities,Expense,2023-05-26,2023,5
+1,Medical Checkup,140.84,Rent,Expense,2023-08-30,2023,8
+2,Groceries,486.24,Utilities,Expense,2023-11-16,2023,11
+7,Rent Payment,3842.6,Utilities,Expense,2023-04-03,2023,4
+6,Electricity Bill,2294.29,Food,Expense,2023-05-01,2023,5
+6,Medical Checkup,3217.46,Utilities,Expense,2023-10-07,2023,10
+7,Salary,3787.75,Medical,Expense,2023-04-28,2023,4
+9,Dinner,3281.92,Salary,Income,2023-07-29,2023,7
+7,Dinner,4274.07,Medical,Expense,2023-01-21,2023,1
+10,Salary,4767.02,Utilities,Expense,2023-04-29,2023,4
+10,Medical Checkup,1485.73,Utilities,Expense,2023-07-08,2023,7
+10,Rent Payment,4401.5,Food,Expense,2023-11-30,2023,11
+2,Salary,3687.81,Food,Expense,2023-07-14,2023,7
+6,Online Shopping,3439.81,Entertainment,Expense,2023-09-08,2023,9
+2,Electricity Bill,4151.32,Medical,Expense,2023-04-03,2023,4
+6,Electricity Bill,993.76,Tip,Expense,2023-07-26,2023,7
+8,Medical Checkup,172.4,Utilities,Expense,2023-07-11,2023,7
+9,Groceries,2223.16,Transportation,Expense,2023-12-25,2023,12
+8,Electricity Bill,3842.01,Tip,Expense,2023-10-15,2023,10
+4,Online Shopping,1559.59,Groceries,Expense,2023-12-31,2023,12
+1,Salary,2657.84,Entertainment,Expense,2023-02-11,2023,2
+10,Dinner,2234.2,Utilities,Expense,2023-02-12,2023,2
+7,Medical Checkup,2241.48,Other,Expense,2023-01-26,2023,1
+4,Rent Payment,3693.14,Medical,Expense,2023-12-07,2023,12
+3,Salary,1497.17,Medical,Expense,2023-10-21,2023,10
+3,Online Shopping,4234.22,Utilities,Expense,2023-10-07,2023,10
+5,Dinner,2655.29,Utilities,Expense,2023-10-05,2023,10
+6,Medical Checkup,4077.65,Entertainment,Expense,2023-04-21,2023,4
+5,Online Shopping,680.54,Food,Expense,2023-09-29,2023,9
+1,Medical Checkup,2505.06,Tip,Expense,2023-04-02,2023,4
+7,Dinner,2903.08,Tip,Expense,2023-03-02,2023,3
+1,Dinner,333.91,Groceries,Expense,2023-12-31,2023,12
+2,Salary,4503.97,Medical,Expense,2023-02-28,2023,2
+6,Salary,1481.67,Utilities,Expense,2023-09-05,2023,9
+3,Medical Checkup,3476.32,Utilities,Expense,2023-11-01,2023,11
+5,Rent Payment,1007.49,Groceries,Expense,2023-03-20,2023,3
+10,Medical Checkup,1316.57,Food,Expense,2023-12-01,2023,12
+10,Dinner,1375.09,Other,Expense,2023-11-26,2023,11
+8,Medical Checkup,1735.31,Tip,Expense,2023-03-28,2023,3
+4,Salary,220.65,Other,Expense,2023-10-06,2023,10
+7,Rent Payment,2805.61,Tip,Expense,2023-05-31,2023,5
+4,Rent Payment,355.45,Utilities,Expense,2023-01-10,2023,1
+8,Salary,1804.2,Salary,Income,2023-09-23,2023,9
+6,Electricity Bill,1425.22,Food,Expense,2023-01-20,2023,1
+5,Groceries,2320.96,Medical,Expense,2023-11-13,2023,11
+7,Medical Checkup,4764.33,Transportation,Expense,2023-01-23,2023,1
+3,Electricity Bill,3804.82,Transportation,Expense,2023-02-24,2023,2
+8,Rent Payment,2343.08,Salary,Income,2023-08-01,2023,8
+7,Rent Payment,1758.48,Rent,Expense,2023-12-31,2023,12
+6,Groceries,1046.44,Transportation,Expense,2023-03-17,2023,3
+6,Dinner,4170.58,Salary,Income,2023-08-11,2023,8
+10,Medical Checkup,2344.55,Utilities,Expense,2023-08-22,2023,8
+6,Rent Payment,864.08,Tip,Expense,2023-07-24,2023,7
+8,Medical Checkup,1200.41,Utilities,Expense,2023-02-27,2023,2
+7,Dinner,1223.72,Transportation,Expense,2023-09-15,2023,9
+4,Salary,2107.5,Groceries,Expense,2023-11-14,2023,11
+6,Medical Checkup,3282.27,Entertainment,Expense,2023-08-29,2023,8
+3,Online Shopping,3762.82,Other,Expense,2023-08-15,2023,8
+10,Electricity Bill,4946.78,Transportation,Expense,2023-06-18,2023,6
+5,Online Shopping,2590.23,Rent,Expense,2023-12-11,2023,12
+5,Rent Payment,1284.74,Other,Expense,2023-05-22,2023,5
+7,Electricity Bill,3017.01,Entertainment,Expense,2023-03-02,2023,3
+2,Groceries,2026.64,Medical,Expense,2023-03-23,2023,3
+6,Rent Payment,1038.8,Utilities,Expense,2023-04-09,2023,4
+1,Medical Checkup,1195.95,Groceries,Expense,2023-11-09,2023,11
+1,Medical Checkup,3656.73,Transportation,Expense,2023-08-09,2023,8
+8,Rent Payment,3240.78,Tip,Expense,2023-07-29,2023,7
+8,Groceries,2359.57,Tip,Expense,2023-02-12,2023,2
+1,Online Shopping,2682.28,Medical,Expense,2023-09-25,2023,9
+6,Dinner,4470.37,Food,Expense,2023-06-27,2023,6
+4,Online Shopping,4837.26,Groceries,Expense,2023-04-13,2023,4
+9,Salary,2365.82,Rent,Expense,2023-06-25,2023,6
+1,Rent Payment,1437.46,Salary,Income,2023-11-06,2023,11
+8,Electricity Bill,2111.17,Groceries,Expense,2023-07-01,2023,7
+9,Salary,3491.06,Transportation,Expense,2023-03-18,2023,3
+7,Online Shopping,1611.08,Groceries,Expense,2023-09-20,2023,9
+6,Online Shopping,4864.98,Other,Expense,2023-02-01,2023,2
+10,Medical Checkup,2938.62,Medical,Expense,2023-10-09,2023,10
+1,Groceries,3156.44,Food,Expense,2023-01-23,2023,1
+1,Rent Payment,3359.31,Groceries,Expense,2023-08-29,2023,8
+1,Medical Checkup,2423.53,Transportation,Expense,2023-09-25,2023,9
+6,Groceries,1077.53,Rent,Expense,2023-05-07,2023,5
+4,Groceries,4411.59,Salary,Income,2023-05-01,2023,5
+2,Rent Payment,2488.95,Transportation,Expense,2023-11-12,2023,11
+3,Electricity Bill,2680.54,Entertainment,Expense,2023-08-08,2023,8
+5,Medical Checkup,3455.17,Other,Expense,2023-03-19,2023,3
+4,Electricity Bill,4721.71,Other,Expense,2023-08-28,2023,8
+2,Salary,1176.09,Salary,Income,2023-01-09,2023,1
+7,Salary,3013.78,Medical,Expense,2023-01-29,2023,1
+10,Dinner,198.21,Entertainment,Expense,2023-01-14,2023,1
+3,Groceries,4443.76,Salary,Income,2023-09-09,2023,9
+3,Online Shopping,4978.13,Other,Expense,2023-10-19,2023,10
+2,Groceries,2868.63,Other,Expense,2023-01-27,2023,1
+5,Online Shopping,145.6,Groceries,Expense,2023-03-21,2023,3
+7,Salary,3510.19,Medical,Expense,2023-07-25,2023,7
+10,Online Shopping,3103.07,Entertainment,Expense,2023-05-15,2023,5
+1,Online Shopping,2244.3,Groceries,Expense,2023-11-10,2023,11
+1,Rent Payment,2358.03,Tip,Expense,2023-11-08,2023,11
+3,Medical Checkup,3535.25,Entertainment,Expense,2023-12-06,2023,12
+9,Groceries,4142.24,Entertainment,Expense,2023-07-14,2023,7
+9,Electricity Bill,1033.59,Entertainment,Expense,2023-08-13,2023,8
+8,Salary,543.61,Food,Expense,2023-06-03,2023,6
+9,Groceries,4026.26,Medical,Expense,2023-06-12,2023,6
+2,Online Shopping,861.03,Utilities,Expense,2023-04-02,2023,4
+2,Medical Checkup,3233.13,Other,Expense,2023-04-01,2023,4
+5,Salary,1238.98,Medical,Expense,2023-05-22,2023,5
+2,Dinner,1782.11,Utilities,Expense,2023-02-22,2023,2
+9,Groceries,656.16,Tip,Expense,2023-01-29,2023,1
+10,Groceries,846.13,Tip,Expense,2023-08-30,2023,8
+1,Online Shopping,3923.73,Salary,Income,2023-09-09,2023,9
+1,Online Shopping,2117.79,Entertainment,Expense,2023-08-07,2023,8
+7,Medical Checkup,4531.16,Other,Expense,2023-07-13,2023,7
+6,Online Shopping,1608.41,Other,Expense,2023-06-02,2023,6
+7,Online Shopping,563.95,Transportation,Expense,2023-06-21,2023,6
+6,Dinner,3936.09,Tip,Expense,2023-01-01,2023,1
+8,Medical Checkup,1230.53,Other,Expense,2023-11-11,2023,11
+3,Online Shopping,833.11,Medical,Expense,2023-04-16,2023,4
+10,Rent Payment,4841.5,Medical,Expense,2023-05-27,2023,5
+7,Medical Checkup,3331.05,Entertainment,Expense,2023-10-25,2023,10
+9,Salary,547.64,Tip,Expense,2023-08-01,2023,8
+8,Medical Checkup,1281.67,Utilities,Expense,2023-04-12,2023,4
+3,Salary,2706.51,Utilities,Expense,2023-03-19,2023,3
+5,Salary,2676.4,Tip,Expense,2023-05-12,2023,5
+10,Medical Checkup,3636.56,Other,Expense,2023-08-09,2023,8
+7,Groceries,4752.08,Salary,Income,2023-02-14,2023,2
+9,Medical Checkup,4527.18,Utilities,Expense,2023-03-09,2023,3
+5,Groceries,4858.62,Entertainment,Expense,2023-10-15,2023,10
+6,Electricity Bill,4321.3,Rent,Expense,2023-06-18,2023,6
+2,Electricity Bill,2283.05,Utilities,Expense,2023-01-30,2023,1
+10,Salary,2850.08,Transportation,Expense,2023-04-13,2023,4
+5,Rent Payment,3292.95,Salary,Income,2023-03-06,2023,3
+2,Electricity Bill,4427.86,Medical,Expense,2023-03-09,2023,3
+4,Salary,1386.52,Tip,Expense,2023-12-26,2023,12
+3,Rent Payment,388.66,Transportation,Expense,2023-12-05,2023,12
+3,Salary,905.63,Rent,Expense,2023-12-02,2023,12
+2,Online Shopping,1438.42,Transportation,Expense,2023-08-04,2023,8
+7,Electricity Bill,1642.2,Entertainment,Expense,2023-06-03,2023,6
+8,Online Shopping,3059.8,Utilities,Expense,2023-07-14,2023,7
+1,Electricity Bill,3660.21,Medical,Expense,2023-12-26,2023,12
+2,Online Shopping,4939.4,Entertainment,Expense,2023-05-16,2023,5
+3,Dinner,1751.33,Tip,Expense,2023-11-30,2023,11
+2,Electricity Bill,651.15,Transportation,Expense,2023-06-17,2023,6
+8,Medical Checkup,4961.3,Salary,Income,2023-05-03,2023,5
+8,Electricity Bill,4749.67,Tip,Expense,2023-01-18,2023,1
+9,Medical Checkup,4604.95,Food,Expense,2023-04-29,2023,4
+9,Online Shopping,4645.83,Transportation,Expense,2023-09-06,2023,9
+6,Groceries,4814.79,Transportation,Expense,2023-10-06,2023,10
+8,Groceries,3347.3,Transportation,Expense,2023-05-17,2023,5
+1,Online Shopping,4652.55,Other,Expense,2023-09-21,2023,9
+5,Dinner,1829.68,Food,Expense,2023-05-03,2023,5
+3,Electricity Bill,535.18,Medical,Expense,2023-07-03,2023,7
+6,Medical Checkup,1403.88,Groceries,Expense,2023-03-19,2023,3
+3,Dinner,4302.71,Medical,Expense,2023-10-19,2023,10
+4,Electricity Bill,1833.73,Medical,Expense,2023-12-11,2023,12
+5,Salary,3571.99,Rent,Expense,2023-08-11,2023,8
+3,Online Shopping,1884.41,Transportation,Expense,2023-10-01,2023,10
+4,Rent Payment,373.52,Transportation,Expense,2023-05-06,2023,5
+1,Dinner,229.19,Salary,Income,2023-11-17,2023,11
+2,Salary,2841.74,Transportation,Expense,2023-02-20,2023,2
+10,Medical Checkup,2645.25,Salary,Income,2023-09-20,2023,9
+2,Dinner,3530.98,Entertainment,Expense,2023-05-21,2023,5
+8,Salary,1974.6,Medical,Expense,2023-01-29,2023,1
+8,Groceries,1582.72,Rent,Expense,2023-08-26,2023,8
+9,Medical Checkup,844.46,Other,Expense,2023-12-20,2023,12
+9,Medical Checkup,2471.48,Transportation,Expense,2023-03-25,2023,3
+3,Groceries,4077.31,Tip,Expense,2023-02-03,2023,2
+7,Groceries,3238.0,Utilities,Expense,2023-01-09,2023,1
+3,Electricity Bill,115.6,Groceries,Expense,2023-10-24,2023,10
+10,Online Shopping,296.83,Rent,Expense,2023-12-13,2023,12
+8,Electricity Bill,2705.63,Entertainment,Expense,2023-09-08,2023,9
+10,Online Shopping,3089.14,Food,Expense,2023-03-18,2023,3
+10,Salary,2724.22,Utilities,Expense,2023-06-10,2023,6
+10,Groceries,2065.05,Entertainment,Expense,2023-06-19,2023,6
+1,Online Shopping,4721.73,Medical,Expense,2023-10-11,2023,10
+4,Online Shopping,3759.44,Salary,Income,2023-06-04,2023,6
+7,Rent Payment,2239.77,Salary,Income,2023-09-09,2023,9
+8,Groceries,1183.72,Transportation,Expense,2023-02-04,2023,2
+9,Medical Checkup,4283.51,Tip,Expense,2023-09-09,2023,9
+5,Dinner,2766.79,Other,Expense,2023-07-11,2023,7
+2,Salary,1856.07,Other,Expense,2023-03-05,2023,3
+2,Online Shopping,1617.77,Other,Expense,2023-08-12,2023,8
+2,Online Shopping,915.55,Other,Expense,2023-04-06,2023,4
+10,Online Shopping,2920.59,Food,Expense,2023-11-04,2023,11
+4,Salary,816.36,Food,Expense,2023-11-23,2023,11
+3,Dinner,1242.7,Food,Expense,2023-06-23,2023,6
+6,Salary,1409.8,Utilities,Expense,2023-03-13,2023,3
+10,Groceries,1680.77,Food,Expense,2023-10-04,2023,10
+2,Rent Payment,4245.99,Other,Expense,2023-02-22,2023,2
+5,Online Shopping,1553.0,Transportation,Expense,2023-01-02,2023,1
+3,Medical Checkup,3918.05,Food,Expense,2023-07-28,2023,7
+9,Salary,2402.46,Salary,Income,2023-08-02,2023,8
+2,Rent Payment,1649.42,Salary,Income,2023-02-01,2023,2
+9,Electricity Bill,1426.33,Groceries,Expense,2023-04-09,2023,4
+3,Online Shopping,4594.3,Other,Expense,2023-10-07,2023,10
+8,Rent Payment,777.39,Entertainment,Expense,2023-06-08,2023,6
+8,Medical Checkup,3172.13,Entertainment,Expense,2023-07-19,2023,7
+9,Electricity Bill,4757.72,Groceries,Expense,2023-05-02,2023,5
+2,Medical Checkup,1890.44,Medical,Expense,2023-01-03,2023,1
+7,Electricity Bill,673.05,Rent,Expense,2023-09-21,2023,9
+1,Rent Payment,2345.82,Salary,Income,2023-11-10,2023,11
+9,Rent Payment,233.43,Food,Expense,2023-05-12,2023,5
+10,Online Shopping,992.93,Food,Expense,2023-06-16,2023,6
+7,Dinner,4458.65,Other,Expense,2023-12-27,2023,12
+1,Groceries,4815.79,Tip,Expense,2023-08-16,2023,8
+5,Salary,4829.91,Rent,Expense,2023-05-01,2023,5
+4,Online Shopping,3530.41,Medical,Expense,2023-07-25,2023,7
+6,Online Shopping,2621.61,Tip,Expense,2023-03-28,2023,3
+10,Salary,4466.34,Groceries,Expense,2023-08-21,2023,8
+9,Electricity Bill,4321.93,Tip,Expense,2023-07-25,2023,7
+10,Medical Checkup,4211.99,Other,Expense,2023-10-03,2023,10
+6,Salary,262.8,Groceries,Expense,2023-04-24,2023,4
+5,Salary,3232.94,Transportation,Expense,2023-12-22,2023,12
+3,Medical Checkup,2150.64,Utilities,Expense,2023-02-12,2023,2
+1,Salary,2850.04,Rent,Expense,2023-09-12,2023,9
+2,Rent Payment,3254.19,Transportation,Expense,2023-10-02,2023,10
+6,Salary,1309.51,Entertainment,Expense,2023-10-26,2023,10
+1,Electricity Bill,4661.33,Tip,Expense,2023-10-07,2023,10
+8,Online Shopping,1258.04,Utilities,Expense,2023-08-15,2023,8
+8,Groceries,1695.87,Tip,Expense,2023-08-17,2023,8
+5,Groceries,4170.15,Medical,Expense,2023-04-06,2023,4
+3,Electricity Bill,304.57,Groceries,Expense,2023-04-07,2023,4
+10,Rent Payment,2279.68,Food,Expense,2023-04-07,2023,4
+10,Salary,837.62,Other,Expense,2023-06-01,2023,6
+9,Salary,3514.12,Rent,Expense,2023-05-31,2023,5
+9,Medical Checkup,373.0,Other,Expense,2023-01-05,2023,1
+5,Dinner,1722.95,Entertainment,Expense,2023-10-21,2023,10
+1,Medical Checkup,2910.46,Tip,Expense,2023-01-18,2023,1
+2,Dinner,1298.96,Food,Expense,2023-08-12,2023,8
+4,Groceries,4175.31,Entertainment,Expense,2023-02-03,2023,2
+9,Groceries,4523.73,Other,Expense,2023-01-24,2023,1
+2,Salary,1874.39,Entertainment,Expense,2023-07-06,2023,7
+4,Online Shopping,1140.14,Entertainment,Expense,2023-04-25,2023,4
+6,Electricity Bill,1952.06,Food,Expense,2023-05-28,2023,5
+4,Salary,399.33,Transportation,Expense,2023-05-05,2023,5
+5,Electricity Bill,4836.66,Transportation,Expense,2023-03-29,2023,3
+1,Salary,3893.44,Entertainment,Expense,2023-11-28,2023,11
+5,Groceries,2293.21,Utilities,Expense,2023-10-09,2023,10
+2,Rent Payment,1446.32,Salary,Income,2023-09-11,2023,9
+9,Rent Payment,207.96,Entertainment,Expense,2023-08-14,2023,8
+8,Groceries,3045.06,Entertainment,Expense,2023-02-15,2023,2
+6,Medical Checkup,807.1,Other,Expense,2023-10-17,2023,10
+6,Online Shopping,2542.17,Groceries,Expense,2023-10-03,2023,10
+5,Dinner,1954.66,Entertainment,Expense,2023-04-05,2023,4
+10,Groceries,507.55,Other,Expense,2023-09-24,2023,9
+3,Dinner,2627.68,Food,Expense,2023-04-06,2023,4
+2,Online Shopping,3151.19,Entertainment,Expense,2023-10-14,2023,10
+7,Dinner,343.75,Food,Expense,2023-02-20,2023,2
+4,Online Shopping,184.18,Transportation,Expense,2023-11-25,2023,11
+2,Rent Payment,2968.69,Entertainment,Expense,2023-03-21,2023,3
+9,Online Shopping,4035.41,Entertainment,Expense,2023-01-28,2023,1
+9,Electricity Bill,3132.08,Food,Expense,2023-04-07,2023,4
+1,Electricity Bill,4349.26,Medical,Expense,2023-04-02,2023,4
+4,Groceries,1519.95,Tip,Expense,2023-02-23,2023,2
+3,Dinner,4436.09,Salary,Income,2023-03-13,2023,3
+5,Electricity Bill,4434.94,Groceries,Expense,2023-07-03,2023,7
+9,Medical Checkup,1397.1,Groceries,Expense,2023-08-28,2023,8
+4,Groceries,4987.18,Groceries,Expense,2023-08-09,2023,8
+10,Salary,1429.62,Transportation,Expense,2023-03-19,2023,3
+8,Dinner,3922.05,Tip,Expense,2023-08-13,2023,8
+9,Dinner,4700.18,Food,Expense,2023-06-06,2023,6
+6,Electricity Bill,843.48,Tip,Expense,2023-02-11,2023,2
+4,Groceries,3554.33,Rent,Expense,2023-12-29,2023,12
+4,Rent Payment,1748.97,Other,Expense,2023-04-01,2023,4
+2,Salary,465.8,Entertainment,Expense,2023-04-25,2023,4
+1,Groceries,2676.99,Other,Expense,2023-12-25,2023,12
+1,Medical Checkup,3478.45,Medical,Expense,2023-02-21,2023,2
+7,Dinner,3191.68,Utilities,Expense,2023-03-07,2023,3
+3,Groceries,676.44,Rent,Expense,2023-06-24,2023,6
+4,Dinner,3064.17,Medical,Expense,2023-12-21,2023,12
+3,Rent Payment,4670.46,Other,Expense,2023-03-11,2023,3
+4,Electricity Bill,3262.93,Medical,Expense,2023-03-21,2023,3
+4,Dinner,4911.2,Food,Expense,2023-04-19,2023,4
+1,Dinner,872.81,Utilities,Expense,2023-04-22,2023,4
+5,Electricity Bill,4591.56,Salary,Income,2023-02-19,2023,2
+3,Groceries,676.26,Groceries,Expense,2023-02-13,2023,2
+2,Medical Checkup,1076.61,Groceries,Expense,2023-02-05,2023,2
+4,Groceries,4322.83,Utilities,Expense,2023-02-08,2023,2
+9,Groceries,3693.91,Tip,Expense,2023-01-20,2023,1
+1,Electricity Bill,1337.48,Transportation,Expense,2023-04-25,2023,4
+8,Dinner,4212.64,Tip,Expense,2023-09-03,2023,9
+1,Dinner,1614.21,Medical,Expense,2023-06-07,2023,6
+3,Online Shopping,979.1,Salary,Income,2023-01-28,2023,1
+6,Dinner,1200.07,Medical,Expense,2023-09-20,2023,9
+7,Dinner,3865.57,Rent,Expense,2023-04-03,2023,4
+4,Salary,1736.2,Food,Expense,2023-07-05,2023,7
+10,Salary,4868.42,Rent,Expense,2023-09-08,2023,9
+6,Salary,4960.52,Entertainment,Expense,2023-06-24,2023,6
+3,Salary,4618.03,Groceries,Expense,2023-11-18,2023,11
+5,Dinner,4280.11,Other,Expense,2023-01-12,2023,1
+7,Dinner,1285.53,Rent,Expense,2023-10-29,2023,10
+9,Medical Checkup,788.02,Groceries,Expense,2023-11-08,2023,11
+7,Online Shopping,1595.43,Other,Expense,2023-09-10,2023,9
+1,Dinner,4156.24,Utilities,Expense,2023-03-06,2023,3
+7,Dinner,2052.43,Salary,Income,2023-03-19,2023,3
+9,Dinner,4083.02,Utilities,Expense,2023-05-11,2023,5
+6,Dinner,2908.62,Salary,Income,2023-06-23,2023,6
+3,Medical Checkup,4332.48,Rent,Expense,2023-01-17,2023,1
+1,Rent Payment,199.85,Medical,Expense,2023-06-02,2023,6
+4,Medical Checkup,2252.59,Transportation,Expense,2023-11-11,2023,11
+6,Rent Payment,351.1,Medical,Expense,2023-11-17,2023,11
+8,Groceries,3848.02,Rent,Expense,2023-10-18,2023,10
+9,Rent Payment,413.57,Salary,Income,2023-10-03,2023,10
+1,Salary,3605.41,Tip,Expense,2023-06-06,2023,6
+8,Dinner,219.52,Transportation,Expense,2023-10-20,2023,10
+10,Groceries,2568.46,Other,Expense,2023-02-02,2023,2
+6,Electricity Bill,1327.79,Entertainment,Expense,2023-12-01,2023,12
+9,Electricity Bill,245.1,Food,Expense,2023-07-25,2023,7
+3,Medical Checkup,616.22,Rent,Expense,2023-08-09,2023,8
+3,Medical Checkup,2644.32,Rent,Expense,2023-04-20,2023,4
+1,Groceries,4043.59,Medical,Expense,2023-09-07,2023,9
+7,Medical Checkup,1128.82,Tip,Expense,2023-08-11,2023,8
+7,Medical Checkup,464.69,Tip,Expense,2023-06-18,2023,6
+7,Medical Checkup,3928.85,Groceries,Expense,2023-05-27,2023,5
+9,Dinner,2661.75,Utilities,Expense,2023-12-21,2023,12
+8,Online Shopping,3459.32,Salary,Income,2023-10-05,2023,10
+5,Rent Payment,1361.03,Medical,Expense,2023-07-11,2023,7
+7,Salary,3279.6,Food,Expense,2023-05-16,2023,5
+2,Electricity Bill,4309.67,Transportation,Expense,2023-08-03,2023,8
+3,Electricity Bill,3753.24,Other,Expense,2023-02-16,2023,2
+4,Dinner,1446.8,Tip,Expense,2023-12-14,2023,12
+3,Rent Payment,3476.35,Food,Expense,2023-06-11,2023,6
+7,Electricity Bill,3736.68,Food,Expense,2023-07-20,2023,7
+8,Medical Checkup,1112.97,Entertainment,Expense,2023-01-28,2023,1
+1,Electricity Bill,1988.22,Food,Expense,2023-01-16,2023,1
+9,Groceries,3895.87,Salary,Income,2023-04-16,2023,4
+8,Online Shopping,3656.45,Entertainment,Expense,2023-10-20,2023,10
+6,Electricity Bill,600.33,Utilities,Expense,2023-04-01,2023,4
+2,Medical Checkup,2419.4,Groceries,Expense,2023-01-01,2023,1
+10,Groceries,1744.96,Transportation,Expense,2023-05-03,2023,5
+6,Medical Checkup,3672.51,Groceries,Expense,2023-02-26,2023,2
+5,Rent Payment,3051.67,Tip,Expense,2023-06-08,2023,6
+2,Rent Payment,1966.01,Tip,Expense,2023-09-19,2023,9
+10,Dinner,4983.07,Utilities,Expense,2023-09-17,2023,9
+3,Online Shopping,1649.49,Utilities,Expense,2023-06-02,2023,6
+5,Dinner,2584.27,Salary,Income,2023-09-15,2023,9
+4,Rent Payment,4697.01,Food,Expense,2023-08-12,2023,8
+6,Rent Payment,3223.61,Tip,Expense,2023-12-04,2023,12
+2,Dinner,1149.5,Salary,Income,2023-03-16,2023,3
+3,Salary,2035.45,Salary,Income,2023-05-21,2023,5
+1,Rent Payment,2482.11,Other,Expense,2023-05-11,2023,5
+7,Electricity Bill,1767.82,Entertainment,Expense,2023-07-27,2023,7
+5,Electricity Bill,3368.74,Groceries,Expense,2023-02-25,2023,2
+6,Groceries,4524.0,Medical,Expense,2023-02-28,2023,2
+7,Salary,2349.33,Utilities,Expense,2023-08-05,2023,8
+4,Dinner,1963.67,Salary,Income,2023-01-29,2023,1
+1,Groceries,4840.1,Other,Expense,2023-01-28,2023,1
+5,Online Shopping,4431.6,Transportation,Expense,2023-03-11,2023,3
+7,Groceries,1766.15,Medical,Expense,2023-02-12,2023,2
+9,Electricity Bill,3627.92,Medical,Expense,2023-08-09,2023,8
+9,Electricity Bill,2228.85,Entertainment,Expense,2023-04-18,2023,4
+3,Salary,827.57,Transportation,Expense,2023-01-09,2023,1
+6,Dinner,4371.63,Rent,Expense,2023-02-21,2023,2
+9,Electricity Bill,3174.18,Tip,Expense,2023-10-22,2023,10
+9,Medical Checkup,1981.17,Food,Expense,2023-03-23,2023,3
+3,Salary,1606.84,Medical,Expense,2023-07-29,2023,7
+6,Salary,2939.68,Utilities,Expense,2023-06-16,2023,6
+5,Salary,3353.27,Entertainment,Expense,2023-10-01,2023,10
+3,Groceries,2573.48,Medical,Expense,2023-03-27,2023,3
+2,Dinner,2384.51,Transportation,Expense,2023-08-16,2023,8
+4,Rent Payment,4220.29,Other,Expense,2023-01-22,2023,1
+7,Groceries,620.25,Utilities,Expense,2023-11-12,2023,11
+6,Medical Checkup,4464.48,Rent,Expense,2023-03-26,2023,3
+4,Electricity Bill,1679.31,Entertainment,Expense,2023-11-02,2023,11
+4,Rent Payment,1782.61,Groceries,Expense,2023-10-15,2023,10
+8,Dinner,4207.23,Entertainment,Expense,2023-09-11,2023,9
+3,Online Shopping,2505.37,Salary,Income,2023-01-05,2023,1
+2,Electricity Bill,3406.87,Food,Expense,2023-08-16,2023,8
+7,Medical Checkup,487.2,Medical,Expense,2023-01-26,2023,1
+10,Groceries,3146.13,Salary,Income,2023-12-06,2023,12
+3,Dinner,780.27,Rent,Expense,2023-05-03,2023,5
+4,Salary,2400.75,Utilities,Expense,2023-05-02,2023,5
+3,Online Shopping,714.94,Other,Expense,2023-12-21,2023,12
+7,Salary,1410.16,Entertainment,Expense,2023-10-24,2023,10
+8,Groceries,4816.4,Other,Expense,2023-10-30,2023,10
+6,Online Shopping,3208.44,Transportation,Expense,2023-02-15,2023,2
+6,Electricity Bill,1837.15,Other,Expense,2023-05-24,2023,5
+10,Electricity Bill,739.99,Utilities,Expense,2023-11-12,2023,11
+2,Rent Payment,503.01,Other,Expense,2023-06-25,2023,6
+1,Rent Payment,1768.82,Other,Expense,2023-09-10,2023,9
+6,Electricity Bill,3547.62,Medical,Expense,2023-07-03,2023,7
+4,Medical Checkup,793.89,Entertainment,Expense,2023-07-19,2023,7
+2,Medical Checkup,107.2,Other,Expense,2023-07-15,2023,7
+1,Medical Checkup,1342.34,Medical,Expense,2023-05-02,2023,5
+4,Medical Checkup,2734.45,Groceries,Expense,2023-11-05,2023,11
+9,Online Shopping,2693.86,Tip,Expense,2023-07-16,2023,7
+3,Salary,4308.99,Other,Expense,2023-03-14,2023,3
+3,Groceries,613.63,Food,Expense,2023-06-25,2023,6
+10,Groceries,3470.16,Entertainment,Expense,2023-05-25,2023,5
+2,Medical Checkup,4098.84,Tip,Expense,2023-04-10,2023,4
+3,Dinner,1779.47,Tip,Expense,2023-11-18,2023,11
+9,Dinner,1119.58,Utilities,Expense,2023-03-14,2023,3
+6,Online Shopping,3308.74,Rent,Expense,2023-07-20,2023,7
+8,Salary,2450.31,Other,Expense,2023-09-05,2023,9
+2,Electricity Bill,324.47,Rent,Expense,2023-03-18,2023,3
+1,Salary,4915.57,Tip,Expense,2023-07-14,2023,7
+3,Electricity Bill,3566.17,Groceries,Expense,2023-09-24,2023,9
+4,Rent Payment,4453.81,Transportation,Expense,2023-01-09,2023,1
+7,Salary,3132.22,Utilities,Expense,2023-08-20,2023,8
+6,Online Shopping,591.06,Other,Expense,2023-03-08,2023,3
+2,Online Shopping,3974.46,Groceries,Expense,2023-12-27,2023,12
+5,Online Shopping,206.55,Medical,Expense,2023-04-10,2023,4
+3,Groceries,4324.56,Tip,Expense,2023-07-19,2023,7
+7,Groceries,4612.51,Transportation,Expense,2023-06-30,2023,6
+2,Rent Payment,3714.32,Tip,Expense,2023-08-10,2023,8
+10,Rent Payment,1986.48,Other,Expense,2023-11-13,2023,11
+2,Rent Payment,4659.52,Transportation,Expense,2023-09-16,2023,9
+5,Rent Payment,1715.7,Rent,Expense,2023-11-11,2023,11
+5,Groceries,3441.99,Medical,Expense,2023-03-07,2023,3
+1,Groceries,3956.94,Salary,Income,2023-05-14,2023,5
+3,Groceries,2644.26,Medical,Expense,2023-11-25,2023,11
+9,Dinner,2891.38,Tip,Expense,2023-04-01,2023,4
+2,Medical Checkup,3481.47,Transportation,Expense,2023-09-26,2023,9
+1,Online Shopping,1649.53,Food,Expense,2023-03-09,2023,3
+4,Electricity Bill,276.22,Groceries,Expense,2023-04-05,2023,4
+3,Groceries,1372.81,Food,Expense,2023-01-06,2023,1
+1,Groceries,3482.02,Groceries,Expense,2023-11-01,2023,11
+7,Salary,2519.24,Utilities,Expense,2023-02-05,2023,2
+10,Dinner,2964.44,Entertainment,Expense,2023-11-20,2023,11
+1,Medical Checkup,947.05,Food,Expense,2023-07-19,2023,7
+3,Online Shopping,4095.13,Medical,Expense,2023-09-26,2023,9
+2,Dinner,1661.92,Utilities,Expense,2023-08-21,2023,8
+9,Online Shopping,1738.25,Salary,Income,2023-05-12,2023,5
+5,Salary,1268.54,Rent,Expense,2023-10-05,2023,10
+2,Salary,481.75,Utilities,Expense,2023-11-16,2023,11
+7,Electricity Bill,1266.25,Utilities,Expense,2023-09-17,2023,9
+8,Rent Payment,1178.75,Transportation,Expense,2023-08-29,2023,8
+8,Rent Payment,1892.68,Medical,Expense,2023-07-19,2023,7
+2,Online Shopping,4174.93,Groceries,Expense,2023-07-30,2023,7
+10,Salary,216.25,Salary,Income,2023-02-02,2023,2
+5,Online Shopping,2387.32,Utilities,Expense,2023-11-20,2023,11
+5,Online Shopping,3092.76,Entertainment,Expense,2023-04-21,2023,4
+4,Online Shopping,345.11,Transportation,Expense,2023-07-13,2023,7
+5,Rent Payment,3818.51,Medical,Expense,2023-03-03,2023,3
+4,Dinner,1026.09,Transportation,Expense,2023-08-20,2023,8
+8,Online Shopping,3251.12,Entertainment,Expense,2023-12-07,2023,12
+1,Online Shopping,4849.26,Salary,Income,2023-09-29,2023,9
+6,Medical Checkup,4842.24,Entertainment,Expense,2023-05-23,2023,5
+2,Groceries,1663.74,Tip,Expense,2023-10-03,2023,10
+4,Medical Checkup,4883.17,Rent,Expense,2023-08-15,2023,8
+4,Dinner,127.08,Groceries,Expense,2023-11-19,2023,11
+7,Online Shopping,217.74,Entertainment,Expense,2023-01-03,2023,1
+7,Groceries,4957.2,Rent,Expense,2023-03-15,2023,3
+10,Online Shopping,1269.82,Medical,Expense,2023-08-12,2023,8
+9,Groceries,2851.52,Food,Expense,2023-02-16,2023,2
+5,Online Shopping,4728.73,Salary,Income,2023-08-27,2023,8
+3,Salary,1862.46,Rent,Expense,2023-08-29,2023,8
+10,Rent Payment,2727.91,Medical,Expense,2023-01-08,2023,1
+7,Medical Checkup,3437.89,Transportation,Expense,2023-05-16,2023,5
+8,Medical Checkup,4976.46,Transportation,Expense,2023-05-09,2023,5
+8,Medical Checkup,2730.02,Rent,Expense,2023-01-29,2023,1
+1,Groceries,2836.46,Groceries,Expense,2023-03-29,2023,3
+3,Medical Checkup,2775.74,Other,Expense,2023-01-19,2023,1
+3,Online Shopping,1053.81,Transportation,Expense,2023-03-18,2023,3
+7,Electricity Bill,3220.17,Food,Expense,2023-10-22,2023,10
+6,Electricity Bill,2148.36,Food,Expense,2023-07-08,2023,7
+2,Salary,1890.72,Food,Expense,2023-11-10,2023,11
+3,Online Shopping,2175.73,Rent,Expense,2023-06-21,2023,6
+2,Medical Checkup,2389.25,Other,Expense,2023-04-10,2023,4
+2,Online Shopping,4223.51,Rent,Expense,2023-06-19,2023,6
+9,Dinner,1900.05,Food,Expense,2023-04-26,2023,4
+8,Online Shopping,3617.73,Medical,Expense,2023-02-06,2023,2
+5,Salary,789.16,Salary,Income,2023-09-06,2023,9
+10,Online Shopping,151.31,Utilities,Expense,2023-06-04,2023,6
+8,Online Shopping,4141.81,Salary,Income,2023-03-18,2023,3
+6,Dinner,4753.52,Tip,Expense,2023-11-26,2023,11
+2,Salary,538.09,Salary,Income,2023-12-01,2023,12
+6,Salary,4750.69,Rent,Expense,2023-05-11,2023,5
+8,Medical Checkup,1759.02,Groceries,Expense,2023-12-14,2023,12
+3,Salary,3436.73,Entertainment,Expense,2023-04-22,2023,4
+10,Online Shopping,548.59,Food,Expense,2023-01-21,2023,1
+7,Salary,913.59,Entertainment,Expense,2023-11-21,2023,11
+8,Groceries,925.11,Salary,Income,2023-03-08,2023,3
+4,Groceries,4359.97,Groceries,Expense,2023-12-10,2023,12
+3,Salary,3747.08,Medical,Expense,2023-07-24,2023,7
+8,Salary,2465.59,Groceries,Expense,2023-07-18,2023,7
+7,Online Shopping,2217.38,Medical,Expense,2023-07-29,2023,7
+1,Electricity Bill,1358.98,Tip,Expense,2023-01-09,2023,1
+5,Online Shopping,2736.57,Utilities,Expense,2023-04-16,2023,4
+1,Groceries,3179.02,Tip,Expense,2023-12-26,2023,12
+5,Dinner,2452.32,Tip,Expense,2023-11-04,2023,11
+9,Medical Checkup,1037.04,Entertainment,Expense,2023-05-08,2023,5
+3,Salary,4773.78,Groceries,Expense,2023-11-09,2023,11
+3,Online Shopping,4506.26,Other,Expense,2023-01-27,2023,1
+1,Dinner,4983.07,Food,Expense,2023-11-17,2023,11
+8,Online Shopping,1937.29,Tip,Expense,2023-12-08,2023,12
+4,Salary,3597.87,Food,Expense,2023-02-23,2023,2
+2,Electricity Bill,1529.98,Utilities,Expense,2023-02-25,2023,2
+9,Groceries,2022.38,Tip,Expense,2023-04-21,2023,4
+2,Groceries,2142.12,Entertainment,Expense,2023-10-21,2023,10
+10,Salary,4196.32,Transportation,Expense,2023-07-11,2023,7
+2,Dinner,4571.0,Entertainment,Expense,2023-04-13,2023,4
+2,Dinner,3821.14,Medical,Expense,2023-05-13,2023,5
+8,Online Shopping,4760.68,Transportation,Expense,2023-06-10,2023,6
+1,Rent Payment,933.54,Groceries,Expense,2023-08-06,2023,8
+4,Rent Payment,3336.94,Food,Expense,2023-04-14,2023,4
+2,Online Shopping,1521.28,Salary,Income,2023-01-01,2023,1
+8,Rent Payment,4005.33,Rent,Expense,2023-11-03,2023,11
+9,Rent Payment,4885.4,Food,Expense,2023-12-08,2023,12
+9,Rent Payment,3456.52,Entertainment,Expense,2023-06-27,2023,6
+5,Electricity Bill,4586.43,Rent,Expense,2023-12-05,2023,12
+1,Electricity Bill,4210.23,Other,Expense,2023-04-17,2023,4
+10,Groceries,3908.44,Medical,Expense,2023-09-18,2023,9
+10,Salary,4800.02,Other,Expense,2023-03-21,2023,3
+3,Medical Checkup,4630.61,Entertainment,Expense,2023-04-09,2023,4
+3,Electricity Bill,1194.96,Salary,Income,2023-10-03,2023,10
+1,Salary,2199.45,Tip,Expense,2023-04-01,2023,4
+2,Dinner,2487.88,Transportation,Expense,2023-05-30,2023,5
+8,Online Shopping,4363.23,Utilities,Expense,2023-03-23,2023,3
+5,Groceries,3724.71,Rent,Expense,2023-10-15,2023,10
+6,Dinner,2361.5,Transportation,Expense,2023-01-23,2023,1
+2,Medical Checkup,4018.74,Utilities,Expense,2023-01-17,2023,1
+6,Online Shopping,2154.7,Groceries,Expense,2023-09-24,2023,9
+5,Groceries,2944.31,Other,Expense,2023-03-27,2023,3
+9,Medical Checkup,4693.31,Groceries,Expense,2023-09-17,2023,9
+3,Dinner,704.62,Medical,Expense,2023-08-30,2023,8
+6,Online Shopping,3466.79,Utilities,Expense,2023-10-03,2023,10
+1,Medical Checkup,1115.68,Food,Expense,2023-11-10,2023,11
+8,Online Shopping,3499.5,Rent,Expense,2023-10-20,2023,10
+7,Dinner,2060.47,Medical,Expense,2023-10-19,2023,10
+5,Medical Checkup,3853.46,Rent,Expense,2023-04-20,2023,4
+10,Online Shopping,2145.5,Rent,Expense,2023-01-05,2023,1
+10,Electricity Bill,443.93,Food,Expense,2023-05-10,2023,5
+4,Dinner,171.82,Entertainment,Expense,2023-02-08,2023,2
+4,Electricity Bill,1021.93,Medical,Expense,2023-12-12,2023,12
+3,Dinner,2425.95,Salary,Income,2023-02-26,2023,2
+9,Groceries,967.89,Other,Expense,2023-01-21,2023,1
+10,Medical Checkup,967.48,Medical,Expense,2023-07-13,2023,7
+4,Online Shopping,4567.2,Groceries,Expense,2023-08-02,2023,8
+10,Groceries,3278.15,Transportation,Expense,2023-09-22,2023,9
+2,Salary,1441.55,Other,Expense,2023-02-24,2023,2
+3,Groceries,1156.1,Groceries,Expense,2023-06-13,2023,6
+3,Groceries,557.44,Food,Expense,2023-01-15,2023,1
+7,Dinner,2981.55,Entertainment,Expense,2023-04-29,2023,4
+4,Groceries,2177.11,Rent,Expense,2023-10-02,2023,10
+3,Online Shopping,3905.15,Entertainment,Expense,2023-03-16,2023,3
+9,Salary,1571.21,Rent,Expense,2023-01-26,2023,1
+7,Rent Payment,1910.1,Entertainment,Expense,2023-04-08,2023,4
+8,Salary,4049.9,Food,Expense,2023-07-01,2023,7
+8,Salary,923.17,Entertainment,Expense,2023-08-30,2023,8
+5,Rent Payment,162.49,Utilities,Expense,2023-10-26,2023,10
+4,Salary,652.31,Rent,Expense,2023-06-14,2023,6
+10,Medical Checkup,981.79,Other,Expense,2023-02-26,2023,2
+3,Dinner,2100.66,Groceries,Expense,2023-05-17,2023,5
+2,Medical Checkup,1202.0,Salary,Income,2023-04-18,2023,4
+3,Dinner,4842.32,Tip,Expense,2023-07-12,2023,7
+1,Groceries,3479.45,Groceries,Expense,2023-08-07,2023,8
+6,Online Shopping,3293.15,Transportation,Expense,2023-09-27,2023,9
+9,Groceries,614.86,Entertainment,Expense,2023-08-05,2023,8
+5,Groceries,425.02,Rent,Expense,2023-07-13,2023,7
+5,Groceries,1360.1,Other,Expense,2023-11-21,2023,11
+10,Groceries,3563.12,Tip,Expense,2023-02-22,2023,2
+8,Dinner,704.06,Food,Expense,2023-10-17,2023,10
+5,Salary,857.86,Tip,Expense,2023-12-09,2023,12
+8,Groceries,165.8,Salary,Income,2023-08-06,2023,8
+6,Salary,4291.96,Salary,Income,2023-08-06,2023,8
+3,Dinner,2271.87,Salary,Income,2023-07-29,2023,7
+2,Dinner,569.41,Entertainment,Expense,2023-07-23,2023,7
+2,Medical Checkup,1027.33,Rent,Expense,2023-12-27,2023,12
+6,Groceries,2820.01,Groceries,Expense,2023-07-21,2023,7
+8,Rent Payment,271.6,Food,Expense,2023-09-17,2023,9
+7,Salary,4155.53,Salary,Income,2023-05-21,2023,5
+3,Dinner,3790.87,Salary,Income,2023-08-21,2023,8
+3,Dinner,3963.06,Tip,Expense,2023-01-23,2023,1
+5,Groceries,3037.03,Salary,Income,2023-03-17,2023,3
+10,Online Shopping,2838.26,Other,Expense,2023-09-03,2023,9
+4,Online Shopping,1508.73,Medical,Expense,2023-04-06,2023,4
+6,Salary,1268.2,Groceries,Expense,2023-11-25,2023,11
+10,Salary,3282.13,Transportation,Expense,2023-08-16,2023,8
+2,Groceries,209.86,Food,Expense,2023-11-07,2023,11
+6,Dinner,1844.33,Groceries,Expense,2023-02-16,2023,2
+10,Medical Checkup,4968.25,Transportation,Expense,2023-04-16,2023,4
+1,Dinner,1687.96,Groceries,Expense,2023-11-23,2023,11
+4,Groceries,307.86,Tip,Expense,2023-03-29,2023,3
+3,Rent Payment,702.72,Tip,Expense,2023-07-23,2023,7
+1,Electricity Bill,1851.77,Utilities,Expense,2023-01-27,2023,1
+1,Electricity Bill,3335.43,Tip,Expense,2023-06-22,2023,6
+6,Salary,253.37,Entertainment,Expense,2023-07-21,2023,7
+1,Rent Payment,792.55,Groceries,Expense,2023-03-31,2023,3
+1,Medical Checkup,921.71,Other,Expense,2023-01-16,2023,1
+8,Medical Checkup,1081.55,Utilities,Expense,2023-02-07,2023,2
+9,Groceries,3253.93,Entertainment,Expense,2023-11-20,2023,11
+4,Dinner,4407.77,Groceries,Expense,2023-01-19,2023,1
+4,Online Shopping,3467.83,Transportation,Expense,2023-11-04,2023,11
+1,Groceries,2601.98,Tip,Expense,2023-12-14,2023,12
+5,Dinner,418.31,Other,Expense,2023-05-16,2023,5
+9,Groceries,151.35,Other,Expense,2023-09-17,2023,9
+8,Online Shopping,633.3,Other,Expense,2023-10-02,2023,10
+9,Groceries,1003.43,Utilities,Expense,2023-08-16,2023,8
+7,Electricity Bill,4620.94,Rent,Expense,2023-09-30,2023,9
+3,Groceries,356.95,Utilities,Expense,2023-07-25,2023,7
+6,Dinner,3789.98,Medical,Expense,2023-09-01,2023,9
+2,Groceries,3346.38,Utilities,Expense,2023-12-28,2023,12
+10,Medical Checkup,4312.11,Rent,Expense,2023-08-01,2023,8
+6,Medical Checkup,3053.27,Rent,Expense,2023-12-21,2023,12
+7,Groceries,3679.49,Entertainment,Expense,2023-10-22,2023,10
+7,Rent Payment,2463.83,Utilities,Expense,2023-04-23,2023,4
+5,Groceries,1713.47,Other,Expense,2023-12-25,2023,12
+4,Online Shopping,1932.5,Food,Expense,2023-05-09,2023,5
+4,Online Shopping,2623.02,Rent,Expense,2023-08-20,2023,8
+8,Rent Payment,3119.83,Salary,Income,2023-12-18,2023,12
+10,Dinner,821.26,Rent,Expense,2023-01-20,2023,1
+8,Electricity Bill,2477.37,Other,Expense,2023-03-15,2023,3
+2,Electricity Bill,3209.97,Medical,Expense,2023-10-22,2023,10
+10,Rent Payment,4464.63,Rent,Expense,2023-07-03,2023,7
+9,Dinner,3045.39,Utilities,Expense,2023-06-05,2023,6
+3,Rent Payment,3251.58,Rent,Expense,2023-07-12,2023,7
+2,Dinner,2310.53,Salary,Income,2023-07-05,2023,7
+3,Electricity Bill,2788.69,Transportation,Expense,2023-01-12,2023,1
+1,Rent Payment,1876.31,Entertainment,Expense,2023-12-14,2023,12
+7,Electricity Bill,3234.56,Other,Expense,2023-03-29,2023,3
+7,Groceries,1722.42,Tip,Expense,2023-01-14,2023,1
+3,Groceries,4958.41,Tip,Expense,2023-08-01,2023,8
+9,Online Shopping,2508.95,Utilities,Expense,2023-03-15,2023,3
+8,Salary,4472.24,Transportation,Expense,2023-03-17,2023,3
+9,Dinner,4562.16,Transportation,Expense,2023-09-01,2023,9
+2,Online Shopping,1514.41,Transportation,Expense,2023-02-11,2023,2
+1,Salary,2038.37,Transportation,Expense,2023-12-22,2023,12
+10,Online Shopping,2700.66,Salary,Income,2023-05-14,2023,5
+3,Medical Checkup,4723.46,Rent,Expense,2023-07-14,2023,7
+5,Electricity Bill,3639.75,Groceries,Expense,2023-03-21,2023,3
+2,Groceries,1442.64,Groceries,Expense,2023-11-06,2023,11
+9,Dinner,3099.79,Entertainment,Expense,2023-03-08,2023,3
+1,Rent Payment,3531.1,Food,Expense,2023-02-28,2023,2
+3,Salary,1037.47,Food,Expense,2023-09-09,2023,9
+6,Groceries,4512.04,Entertainment,Expense,2023-07-11,2023,7
+6,Online Shopping,3145.04,Food,Expense,2023-11-02,2023,11
+5,Salary,4963.04,Utilities,Expense,2023-10-19,2023,10
+6,Online Shopping,752.06,Salary,Income,2023-03-01,2023,3
+5,Medical Checkup,3757.82,Rent,Expense,2023-03-16,2023,3
+2,Rent Payment,3319.52,Groceries,Expense,2023-05-29,2023,5
+7,Salary,3511.23,Entertainment,Expense,2023-09-10,2023,9
+1,Groceries,3390.1,Other,Expense,2023-08-21,2023,8
+3,Electricity Bill,3043.86,Tip,Expense,2023-02-09,2023,2
+10,Dinner,507.32,Food,Expense,2023-08-17,2023,8
+10,Salary,2918.07,Medical,Expense,2023-06-25,2023,6
+3,Dinner,4895.81,Entertainment,Expense,2023-07-27,2023,7
+5,Dinner,4453.15,Medical,Expense,2023-12-30,2023,12
+9,Dinner,1281.35,Groceries,Expense,2023-09-04,2023,9
+3,Salary,3948.4,Food,Expense,2023-10-09,2023,10
+3,Online Shopping,862.68,Entertainment,Expense,2023-08-07,2023,8
+7,Dinner,3945.7,Utilities,Expense,2023-06-05,2023,6
+2,Groceries,2991.17,Salary,Income,2023-09-14,2023,9
+2,Medical Checkup,2443.42,Salary,Income,2023-02-21,2023,2
+3,Groceries,3862.2,Other,Expense,2023-07-23,2023,7
+9,Dinner,3232.94,Groceries,Expense,2023-06-24,2023,6
+4,Salary,1576.23,Entertainment,Expense,2023-12-09,2023,12
+10,Groceries,365.46,Entertainment,Expense,2023-05-27,2023,5
+1,Salary,3650.02,Tip,Expense,2023-12-28,2023,12
+8,Online Shopping,4770.0,Groceries,Expense,2023-10-14,2023,10
+1,Dinner,3879.51,Other,Expense,2023-10-26,2023,10
+5,Dinner,2132.03,Medical,Expense,2023-10-17,2023,10
+9,Groceries,4957.93,Medical,Expense,2023-09-07,2023,9
+1,Groceries,4483.56,Rent,Expense,2023-05-06,2023,5
+2,Dinner,3289.31,Transportation,Expense,2023-01-12,2023,1
+4,Online Shopping,3533.8,Other,Expense,2023-05-14,2023,5
+7,Salary,1049.16,Utilities,Expense,2023-09-11,2023,9
+2,Online Shopping,1186.62,Other,Expense,2023-04-29,2023,4
+4,Medical Checkup,2831.87,Tip,Expense,2023-02-28,2023,2
+1,Dinner,4036.78,Rent,Expense,2023-07-03,2023,7
+5,Medical Checkup,1960.31,Transportation,Expense,2023-10-03,2023,10
+8,Dinner,1183.48,Rent,Expense,2023-07-24,2023,7
+9,Rent Payment,4232.8,Entertainment,Expense,2023-03-14,2023,3
+6,Online Shopping,1024.2,Tip,Expense,2023-03-12,2023,3
+3,Electricity Bill,552.17,Medical,Expense,2023-11-13,2023,11
+4,Medical Checkup,958.93,Transportation,Expense,2023-06-21,2023,6
+9,Medical Checkup,210.77,Tip,Expense,2023-06-05,2023,6
+10,Dinner,2508.59,Transportation,Expense,2023-12-18,2023,12
+9,Salary,2387.66,Medical,Expense,2023-10-12,2023,10
+8,Groceries,1601.49,Rent,Expense,2023-04-08,2023,4
+9,Rent Payment,3584.3,Utilities,Expense,2023-07-13,2023,7
+9,Electricity Bill,3371.11,Other,Expense,2023-07-20,2023,7
+10,Electricity Bill,542.47,Utilities,Expense,2023-03-04,2023,3
+10,Medical Checkup,4309.64,Tip,Expense,2023-11-02,2023,11
+1,Dinner,3108.21,Entertainment,Expense,2023-05-28,2023,5
+3,Electricity Bill,2678.74,Utilities,Expense,2023-10-07,2023,10
+2,Rent Payment,4022.5,Salary,Income,2023-10-30,2023,10
+3,Rent Payment,1299.7,Transportation,Expense,2023-02-11,2023,2
+10,Dinner,2414.42,Entertainment,Expense,2023-06-06,2023,6
+2,Electricity Bill,3544.4,Groceries,Expense,2023-08-21,2023,8
+9,Rent Payment,2066.03,Food,Expense,2023-05-30,2023,5
+2,Medical Checkup,2976.54,Entertainment,Expense,2023-02-23,2023,2
+8,Medical Checkup,4380.65,Medical,Expense,2023-01-16,2023,1
+3,Groceries,3685.15,Rent,Expense,2023-08-19,2023,8
+10,Online Shopping,2345.42,Food,Expense,2023-10-20,2023,10
+10,Online Shopping,4946.88,Transportation,Expense,2023-12-19,2023,12
+6,Salary,3734.63,Salary,Income,2023-11-21,2023,11
+3,Dinner,4076.33,Other,Expense,2023-05-15,2023,5
+5,Rent Payment,1320.22,Tip,Expense,2023-02-11,2023,2
+5,Rent Payment,3533.35,Food,Expense,2023-11-13,2023,11
+7,Medical Checkup,3623.33,Entertainment,Expense,2023-08-20,2023,8
+8,Rent Payment,2049.36,Entertainment,Expense,2023-01-09,2023,1
+1,Rent Payment,3357.78,Utilities,Expense,2023-08-23,2023,8
+5,Salary,2773.65,Entertainment,Expense,2023-09-23,2023,9
+6,Electricity Bill,4649.97,Tip,Expense,2023-03-28,2023,3
