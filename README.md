@@ -74,7 +74,7 @@ Budget Buddy is a web-based application designed to help users track and manage 
 Clone the project:
 
 ```bash
-  git clone https://github.com/VarunMali/Budget-Buddy
+  git clone https://github.com/VarunMali/Buddy
 ```
 
 Navigate to the project directory:
